@@ -1,7 +1,7 @@
 # telecom-analysis
-📂 Contenido del repositorio
+#📂 Contenido del repositorio
 notebooks/S7 Version-Estudiante-Project-ConnectaTel.ipynb → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
-▶ Cómo abrir el notebook en Google Colab
+#▶ Cómo abrir el notebook en Google Colab
 Haz clic en el siguiente botón:
 
 Open In Colab
@@ -10,11 +10,11 @@ O:
 
 Abre el archivo .ipynb en GitHub
 Haz clic en Open in Colab
-📘 Cómo reproducir el análisis
+#📘 Cómo reproducir el análisis
 Abre notebooks/everpeak_analysis.ipynb
 Ejecuta las celdas en orden
 El notebook carga automáticamente el dataset desde /data/ o desde un enlace público (según corresponda)
-🧠 Objetivo del análisis
+#🧠 Objetivo del análisis
 Mi objetivo fue evaluar el comportamiento de los clientes de una empresa de telecomunicaciones en Latinoamérica, ConnectaTel.
 Trabajé con información registrada hasta el año 2024, lo cual me permitió analizar el comportamiento del negocio dentro de ese periodo.
 Para ello trabajé con tres datasets:
