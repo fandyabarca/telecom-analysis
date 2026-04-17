@@ -7,7 +7,8 @@
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/drive/1F-tHmaNAFr7LN9zbuAhDFMHfrZaD3gOk?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F-tHmaNAFr7LN9zbuAhDFMHfrZaD3gOk?usp=sharing)
+
 
 O:
 
